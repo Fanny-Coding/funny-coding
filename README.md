@@ -1,2 +1,2 @@
 # funny-coding
-Welcome to fanny coding
+Welcome to funny coding
